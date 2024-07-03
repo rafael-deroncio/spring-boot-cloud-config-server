@@ -81,3 +81,6 @@ buildNumber.properties
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/java,maven,visualstudiocode,linux
+.vscode/settings.json
+HELP.md
+src/test/java/com/company/configserver/ConfigserverApplicationTests.java
